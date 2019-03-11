@@ -83,7 +83,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'NAME': 'kometuat',
+        'NAME': 'kometprd',
         'ENGINE': 'sql_server.pyodbc',
         'HOST': 'sample-instance.cogfvgnac9bx.ap-southeast-2.rds.amazonaws.com',
         'USER': 'admin',
